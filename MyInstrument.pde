@@ -33,6 +33,7 @@ void setup() {
 
 
 void draw() {
+  //Adding comments here.
   fill(255,255,255,50);
   rect(0,0,width, height);
   noFill();
