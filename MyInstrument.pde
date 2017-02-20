@@ -1,3 +1,7 @@
+/*
+Example instrument for synth workshop.
+*/
+
 import processing.serial.*;
 import cc.arduino.*;
 
